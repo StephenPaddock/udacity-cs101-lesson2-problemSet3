@@ -8,6 +8,8 @@
 
 def set_range(a, b, c):
     return max( a, b, c) - min(a, b, c)
+# Use function max and min to get the highest and lowest number of the
+# set and then simply subtract them from one another.
 
 
 
